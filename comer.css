@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#F49C77;
+	color:#000;
+	}
+
+h1{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:center;
+	font-size:34px;
+	margin:10px;
+	}
+
+p{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:justify;
+	font-size:16px;
+	margin:20px;
+	}
+
+a{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:center;
+	font-size:24px;
+	margin:10px;
+	}
+	
+.dib0{
+	display:block;
+	width:650px;
+	margin:auto;
+	}
+
+.dib1{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib2{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib3{
+	display:block;
+	width:120px;
+	margin:auto;
+    }
+	
+.dib4{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib5{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib6{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib7{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+
+.dib8{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib9{
+	display:block;
+	width:150px;
+	margin:auto;
+    }
+	
+.dib10{
+	display:block;
+	width:80px;
+	margin:auto;
+    }
+
+.dib11{
+	display:block;
+	width:95px;
+	margin:auto;
+    }
+
+.dib12{
+	display:block;
+	width:80px;
+	margin:auto;
+    }
+
+.dib13{
+	display:block;
+	width:80px;
+	margin:auto;
+    }
